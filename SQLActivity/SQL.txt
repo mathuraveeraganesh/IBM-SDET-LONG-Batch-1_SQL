@@ -1,0 +1,10 @@
+username = doadmin
+password = apywricktksrbkvp
+host = training-database-do-user-2041626-0.a.db.ondigitalocean.com
+port = 25060
+database = employees
+sslmode = REQUIRED
+
+
+username = doadmin
+password = apywricktksrbkvp
